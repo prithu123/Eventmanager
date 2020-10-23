@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "eventname": "Fossils Live Concert",
+      "eventregion": "Kolkata",
+      "eventtype": "Music",
+      "cssname": "fas fa-music",
+      "eventdate": "2020-10-30",
+      "id": 2
+    },
+    {
+      "eventname": "Sanjeev Kapoor's Khana Khazana",
+      "eventregion": "Kolkata",
+      "eventtype": "Cooking",
+      "cssname": "fas fa-utensil-spoon",
+      "eventdate": "2020-11-08",
+      "id": 3
+    }
+  ]
+}
